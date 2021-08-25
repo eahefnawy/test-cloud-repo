@@ -6,5 +6,8 @@
   "serverless": {
     "org": "eahefnawy",
     "service": "my-service"
+  },
+  "dependencies": {
+    "ramda": "^0.27.1"
   }
 }
